@@ -5,7 +5,7 @@
 <p align="center">Eu uso Dados para a resolução de problemas da vida real. <br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=79% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=misaeldinis&theme=radical&mode=weekly" />
+<img blue=79% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=misaeldinis&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-misaeldinis.vercel.app/api/top-langs/?username=misaeldinisshow_icons=true&theme=radical&layout=compact" />
  </div>
  
